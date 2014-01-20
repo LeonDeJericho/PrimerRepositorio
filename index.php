@@ -1,12 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
 	<meta charset="utf-8" />
-	<link href="FrontEnt/css/estilos.css" rel="stylesheet" />
 	<link href="FrontEnt/css/normalize.css" rel="stylesheet" />
-	
-	
+	<link href="FrontEnt/css/estilos.css" rel="stylesheet" />
 </head>
 <body>
 
@@ -27,7 +25,7 @@
     <!-- FIN si quieres recargar con ajax-->
 
     <script type="text/javascript" src="FrontEnt/js/jquery.js"></script>
-	<script type="text/javascript" src="FrontEnt/js/codigo.js"></script>
+    <script type="text/javascript" src="FrontEnt/js/codigo.js"></script>
 	
 </body>
 </html>
